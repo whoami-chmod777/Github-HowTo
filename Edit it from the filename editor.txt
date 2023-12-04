@@ -1,1 +1,13 @@
 
+Edit it from the filename editor
+
+Did you know you can add and delete folders from the filename editor itself on GitHub? I didn't, but there's a nice blog post on the subject from 2013 here.
+
+So, in my case, I could go into a file inside the folder in question, hit the button to edit the file, and then update the folder name using this method.
+
+It's done!
+
+Now I can clone my no-longer-weirdly-named folder onto my Windows PC with no issues! Yee haw!
+
+
+https://dev.to/cassidoo/renaming-a-folder-on-the-github-website-5flb
